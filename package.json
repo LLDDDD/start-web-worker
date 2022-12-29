@@ -1,0 +1,24 @@
+{
+  "name": "start-web-worker",
+  "version": "1.0.0",
+  "description": "start web worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLDDDD/start-web-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLDDDD/start-web-worker/issues"
+  },
+  "homepage": "https://github.com/LLDDDD/start-web-worker#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
